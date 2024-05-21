@@ -1,0 +1,14 @@
+{
+  "name": "api_nodejs_docker",
+  "version": "1.0.0",
+  "description": "API rodar nodejs no Docker",
+  "main": "app/app.js",
+  "author": "Ederson Melo",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
